@@ -1,0 +1,24 @@
+{
+  "name": "my-map",
+  "version": "1.0.0",
+  "description": "This is for practicing JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "parcel": "parcel index.html",
+    "build": "parcel build app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trang217/my-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trang217/my-map/issues"
+  },
+  "homepage": "https://github.com/Trang217/my-map#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
